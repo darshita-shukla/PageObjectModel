@@ -1,0 +1,9 @@
+herokuappPages\Checkboxes.class
+herokuappPages\Dropdowns.class
+herokuappPages\DragAndDrop.class
+tests\Pages2Test.class
+herokuappPages\CorrectUsername.class
+herokuappPages\MainPage.class
+tests\HerokuAppTest.class
+herokuappPages\FormAuthentication.class
+pages2\Pages2.class
